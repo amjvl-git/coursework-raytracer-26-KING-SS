@@ -3,13 +3,14 @@
 You are to build a ray tracer in JavaScript which uses the Phong Lighting model.
 This repo will be your submission.
 # GAMR1530 – JavaScript Ray Tracer
+# Sirtaj Sebaj
 
 This project is a simple ray tracer built for the GAMR1530 Maths and Computer Systems module.  
 It renders a 3D scene of spheres using ray–sphere intersection, a basic camera model,  
 Phong lighting (ambient, diffuse, specular), and simple shadow casting.
 
 ## How to Run
-Open `index.html` in any modern browser.  
+Open `index(sirtaj).html` in any modern browser.  
 The scene renders automatically on the HTML canvas.
 
 ## Features
